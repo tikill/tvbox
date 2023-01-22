@@ -1,4 +1,4 @@
-    // 导航  https://饭太硬.ga
+
 {
     "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;dce4a45660b1e61b6f02113cbab13e16",
     "wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -6,14 +6,16 @@
     
 
     "sites":[
-    {"key":"js豆瓣","name":"🅱豆瓣┃首页","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-    {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.饭太硬.ga/x/XYQxb/虎牙直播.json"},
-    {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.饭太硬.ga/x/XYQxb/斗鱼直播.json"},
-    {"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-    {"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-    {"key":"aa","name":"接口优先适配【影视TV】","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key":"bb","name":"导航  https://饭太硬.ga ","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
+    {"key":"js豆瓣","name":"?豆瓣┃首页","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
+
+    {"key":"UpYun","name":"?Up搜┃搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+
+    {"key":"PanSou","name":"?盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+
+    {"key":"csp_XYQBiu_虎牙直播","name":"?虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.饭太硬.ga/x/XYQxb/虎牙直播.json"},
+
+    {"key":"csp_XYQBiu_斗鱼","name":"?斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.饭太硬.ga/x/XYQxb/斗鱼直播.json"}
+    
     ],
     
     
@@ -24,7 +26,7 @@
     {"name": "自","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/20230117?url=","header": {"User-Agent": "Mozilla/5.0"}},
     {"name":"来","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"网络","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-    {"name":"💋So丶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
+    {"name":"?So丶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
     {"name":"大家","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
     {"name":"随便","type":0,"url":"https://h5.freejson.xyz/player/?url="},
     {"name":"弄","type":1,"url":"rxjx.kuanjv.com/allm3u8.php?url="},
