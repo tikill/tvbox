@@ -1,8 +1,7 @@
 
 {
     "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;dce4a45660b1e61b6f02113cbab13e16",
-    //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
-    "wallpaper":"https://raw.githubusercontent.com/tikill/tvbox/main/R-C.jfif",
+    "wallpaper":"https://img.xjh.me/random_img.php",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
     
 
